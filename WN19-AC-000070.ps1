@@ -1,3 +1,4 @@
+<#
 .SYNOPSIS
     This PowerShell script set the minimum password length to 14 characters via the local group policy editor. Weak-short passwords provide the opportunity for anyone to crack the password, thus gaining access to the system and compromising the device, information, or the local network.
 
